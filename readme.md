@@ -1,1 +1,1 @@
-https://david-olivares-d.github.io/g-67metodos_de_arreglos/
+https://david-olivares-d.github.io/g67-metodos_de_arreglo/
